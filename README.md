@@ -1,4 +1,4 @@
-iOS Core Animation: Advanced Techniques中文译本
+iOS Core Animation: Advanced Techniques中文译本（修改版）
 =======
 
 [gitbook上的地址](https://www.gitbook.com/book/zsisme/ios-)
@@ -9,6 +9,12 @@ iOS Core Animation: Advanced Techniques中文译本
 
 >知识是人类进步的阶梯
 
+  **该版本的翻译实在原有作者翻译的基础上对一些翻译的内容进行的的修改版**
+  **如该版本侵犯了您的版权，或有关于该翻译的一些意见或建议，请在[JustLoveBen/ios_core_animation_advanced_techniques](https://github.com/JustLoveBen/ios_core_animation_advanced_techniques)中提issue或者直接发邮件给我，我的邮件地址是justloveben@gmail.com。**
+  -- 2017.10 by Ben
+  
+  以下为原作者的说明：
+  
    **翻译，喵~**
 
    译者为：
